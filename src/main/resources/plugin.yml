@@ -1,0 +1,6 @@
+name: BlockSpawnMobs
+version: '${project.version}'
+main: blockspawnmobs.blockspawnmobs.BlockSpawnMobs
+api-version: 1.19
+load: STARTUP
+authors: [ Link_play ]
